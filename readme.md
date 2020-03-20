@@ -77,7 +77,7 @@ wc.exe [parameter] [file_name]
 
 ## 设计实现过程
 
-
+![](https://img2020.cnblogs.com/blog/1597450/202003/1597450-20200320140715912-754498758.jpg)
 
 ## 代码说明
 
